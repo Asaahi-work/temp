@@ -15,7 +15,7 @@ export default function Home() {
           <a href="tel:+79817625457">+79817625457</a> <br />
           <a href="/">ссылка на сайт</a>
     <div className="flex ">
-      <img src="_title.jpg" alt="cv" height={500} width={450}/>
+      <Image src="_title.jpg" alt="cv" height={500} width={450}/>
       <h3 className="fonr-bold text-[30px] mt-10 ml-36">я тут учусь!!</h3>
     </div>
    
